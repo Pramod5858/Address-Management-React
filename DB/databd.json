@@ -1,0 +1,18 @@
+[
+    {
+        "locationId":1,
+        "location":"Pune"
+    },
+    {
+        "locationId":2,
+        "location":"Delhi"
+    },
+    {
+        "locationId":3,
+        "location":"Mumbai"
+    },
+    {
+        "locationId":4,
+        "location":"Bangalore"
+    }
+]
